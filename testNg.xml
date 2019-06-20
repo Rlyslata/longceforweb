@@ -3,7 +3,7 @@
 <suite name="longce_selenium">
     <test name="test" preserver-order="true">
         <classes>
-            <!--//你也可以多个xgp-->
+            <!--//你也可以多个-->
             <!--<class name="testCase.login_demo"/>-->
             <!--<class name="testCase.isDefaultOpenedCustomer"/>-->
             <!--<class name="testCase.transferTest"/>-->
@@ -20,4 +20,4 @@
     </test> <!-- Test -->
 </suite> <!-- Suite -->
 
-<!--add readme-->
+<!--修改develop,push到遠程倉庫，merge到master-->
