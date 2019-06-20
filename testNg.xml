@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<suite name="test" parallel="true">-->
+<suite name="longce_selenium">
+    <test name="test" preserver-order="true">
+        <classes>
+            <!--//你也可以多个-->
+            <!--<class name="testCase.login_demo"/>-->
+            <!--<class name="testCase.isDefaultOpenedCustomer"/>-->
+            <!--<class name="testCase.transferTest"/>-->
+            <!--<class name="testCase.logOutTest"/>-->
+            <!--<class name="testCase.paymentCodeTest"/>-->
+            <!--<class name="testcase.demo"/>-->
+            <class name="com.example.test.TestFeasiblePathLength3"/>
+        </classes>
+
+        <listeners>
+            <listener class-name="Listener.ExtentTestNGIReporterListener" />
+            <!--<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />-->
+        </listeners>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+
