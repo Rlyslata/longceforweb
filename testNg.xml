@@ -3,7 +3,7 @@
 <suite name="longce_selenium">
     <test name="test" preserver-order="true">
         <classes>
-            <!--//你也可以多个-->
+            <!--//你也可以多个123-->
             <!--<class name="testCase.login_demo"/>-->
             <!--<class name="testCase.isDefaultOpenedCustomer"/>-->
             <!--<class name="testCase.transferTest"/>-->
